@@ -1,0 +1,21 @@
+INFO    2022-04-28 15:32:42,670 [main] HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-04-28 15:32:42,671 [main] HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-04-28 15:32:42,672 [main] HelloWorld  - error message...:welcome to sonar
+INFO    2022-04-28 15:33:33,897 [main] HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-04-28 15:33:33,898 [main] HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-04-28 15:33:33,898 [main] HelloWorld  - error message...:welcome to sonar
+INFO    2022-04-28 15:35:10,581 [main] HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-04-28 15:35:10,582 [main] HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-04-28 15:35:10,583 [main] HelloWorld  - error message...:welcome to sonar
+INFO    2022-04-28 15:35:21,269 [main] HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-04-28 15:35:21,271 [main] HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-04-28 15:35:21,271 [main] HelloWorld  - error message...:welcome to sonar
+INFO    2022-04-28 15:37:01,041 [main] HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-04-28 15:37:01,042 [main] HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-04-28 15:37:01,042 [main] HelloWorld  - error message...:welcome to sonar
+INFO    2022-04-28 15:41:54,764 [main] HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-04-28 15:41:54,765 [main] HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-04-28 15:41:54,765 [main] HelloWorld  - error message...:welcome to sonar
+INFO    2022-04-28 16:44:42,228 [main] HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-04-28 16:44:42,229 [main] HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-04-28 16:44:42,229 [main] HelloWorld  - error message...:welcome to sonar
