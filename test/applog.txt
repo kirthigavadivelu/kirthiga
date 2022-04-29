@@ -1,0 +1,9 @@
+INFO    2022-04-29 10:50:58,852 [main] test.HelloWorld  - this is a message....:HelloWorld
+WARN    2022-04-29 10:50:58,853 [main] test.HelloWorld  - warning message...:HelloWorld
+ERROR   2022-04-29 10:50:58,853 [main] test.HelloWorld  - error message...:HelloWorld
+INFO    2022-04-29 10:51:40,696 [main] test.HelloWorld  - this is a message....:HelloWorld
+WARN    2022-04-29 10:51:40,697 [main] test.HelloWorld  - warning message...:HelloWorld
+ERROR   2022-04-29 10:51:40,697 [main] test.HelloWorld  - error message...:HelloWorld
+INFO    2022-04-29 10:51:46,378 [main] test.HelloWorld  - this is a message....:HelloWorld
+WARN    2022-04-29 10:51:46,379 [main] test.HelloWorld  - warning message...:HelloWorld
+ERROR   2022-04-29 10:51:46,379 [main] test.HelloWorld  - error message...:HelloWorld
