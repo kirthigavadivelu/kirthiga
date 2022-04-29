@@ -19,3 +19,6 @@ ERROR   2022-04-28 15:41:54,765 [main] HelloWorld  - error message...:welcome to
 INFO    2022-04-28 16:44:42,228 [main] HelloWorld  - this is a message....:welcome to sonar
 WARN    2022-04-28 16:44:42,229 [main] HelloWorld  - warning message...:welcome to sonar
 ERROR   2022-04-28 16:44:42,229 [main] HelloWorld  - error message...:welcome to sonar
+INFO    2022-04-29 09:54:21,327 [main] HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-04-29 09:54:21,328 [main] HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-04-29 09:54:21,328 [main] HelloWorld  - error message...:welcome to sonar
