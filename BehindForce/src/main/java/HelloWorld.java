@@ -8,7 +8,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 
-		String str = "welcome ";
+		String str = "welcome to sonar";
 
 		String log4jConfigFile = System.getProperty("user.dir") + File.separator + "log4j.properties";
 		PropertyConfigurator.configure(log4jConfigFile);
