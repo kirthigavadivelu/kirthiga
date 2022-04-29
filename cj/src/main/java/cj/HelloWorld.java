@@ -1,4 +1,4 @@
-package corejava;
+package cj;
 
 import java.io.File;
 
@@ -9,14 +9,14 @@ public class HelloWorld {
 	static Logger logger = Logger.getLogger(HelloWorld.class);
 
 	public static void main(String[] args) {
-
-		String str = "HelloWorld";
+		String name = "welcome ";
 
 		String log4jConfigFile = System.getProperty("user.dir") + File.separator + "log4j.properties";
 		PropertyConfigurator.configure(log4jConfigFile);
-		logger.info("this is a message....:" + str);
-		logger.warn("warning message...:" + str);
-		logger.error("error message...:" + str);
+		logger.info("this is a message....:" + name);
+		logger.warn("warning message...:" + name);
+		logger.error("error message...:" + name);
+
 	}
 
 }
