@@ -1,0 +1,9 @@
+INFO    2022-05-03 13:37:23,314 [main] test.HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-05-03 13:37:23,315 [main] test.HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-05-03 13:37:23,316 [main] test.HelloWorld  - error message...:welcome to sonar
+INFO    2022-05-03 15:58:36,357 [main] test.HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-05-03 15:58:36,358 [main] test.HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-05-03 15:58:36,358 [main] test.HelloWorld  - error message...:welcome to sonar
+INFO    2022-05-03 15:59:36,927 [main] test.HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-05-03 15:59:36,928 [main] test.HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-05-03 15:59:36,928 [main] test.HelloWorld  - error message...:welcome to sonar
