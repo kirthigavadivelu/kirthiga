@@ -8,3 +8,6 @@ ERROR   2022-05-03 10:39:50,278 [main] cj.products  - error message...:hi
 INFO    2022-05-03 10:41:47,042 [main] cj.HelloWorld  - this is a message....:welcome 
 WARN    2022-05-03 10:41:47,043 [main] cj.HelloWorld  - warning message...:welcome 
 ERROR   2022-05-03 10:41:47,044 [main] cj.HelloWorld  - error message...:welcome 
+INFO    2022-05-03 12:26:02,224 [main] cj.HelloWorld  - this is a message....:welcome 
+WARN    2022-05-03 12:26:02,225 [main] cj.HelloWorld  - warning message...:welcome 
+ERROR   2022-05-03 12:26:02,226 [main] cj.HelloWorld  - error message...:welcome 
