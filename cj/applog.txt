@@ -1,6 +1,10 @@
-INFO    2022-04-29 11:34:29,404 [main] cj.HelloWorld  - this is a message....:welcome 
-WARN    2022-04-29 11:34:29,406 [main] cj.HelloWorld  - warning message...:welcome 
-ERROR   2022-04-29 11:34:29,406 [main] cj.HelloWorld  - error message...:welcome 
-INFO    2022-04-29 13:10:34,446 [main] cj.HelloWorld  - this is a message....:welcome 
-WARN    2022-04-29 13:10:34,446 [main] cj.HelloWorld  - warning message...:welcome 
-ERROR   2022-04-29 13:10:34,446 [main] cj.HelloWorld  - error message...:welcome 
+
+INFO    2022-05-03 10:39:41,634 [main] cj.HelloWorld  - this is a message....:welcome 
+WARN    2022-05-03 10:39:41,635 [main] cj.HelloWorld  - warning message...:welcome 
+ERROR   2022-05-03 10:39:41,635 [main] cj.HelloWorld  - error message...:welcome 
+INFO    2022-05-03 10:39:50,277 [main] cj.products  - this is a message....:hi
+WARN    2022-05-03 10:39:50,278 [main] cj.products  - warning message...:hi
+ERROR   2022-05-03 10:39:50,278 [main] cj.products  - error message...:hi
+INFO    2022-05-03 10:41:47,042 [main] cj.HelloWorld  - this is a message....:welcome 
+WARN    2022-05-03 10:41:47,043 [main] cj.HelloWorld  - warning message...:welcome 
+ERROR   2022-05-03 10:41:47,044 [main] cj.HelloWorld  - error message...:welcome 
